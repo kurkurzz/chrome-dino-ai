@@ -1,5 +1,9 @@
 # IMAGE CLASSIFICATION APPROACH FOR CHROME DINO GAME
 
+### Score on the first run:
+
+![score](score.png)
+
 ### File Structure
 
 `01_data_collection.ipynb` is the file for the data collection process.
@@ -13,3 +17,7 @@
 `train` is the training dataset.
 
 `test` is the test dataset.
+
+### Limitation
+
+This model only works for running time >30 seconds. Earlier than that would need human assistance. Future iteration would fix this issue.
